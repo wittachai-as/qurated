@@ -1,0 +1,122 @@
+{
+    "clothing": [
+        {
+            "title": "ANNETTE BANGKOK",
+            "description": "Lahu Tribal in Korea",
+            "thumb": "thumnail_annette_bangkok.jpg"
+	    "slug": "annette-bangkok"
+        },
+        {
+            "title": "ARCHITA",
+            "description": "The Amazing Shades of the Sky",
+            "thumb": "thumnail_archita.jpg"
+	    "slug": "archita"
+        },
+        {
+            "title": "ARTERY",
+            "description": "Ray and Maria Stata Center, Frank Gehry",
+            "thumb": "thumnail_artery.jpg"
+	    "slug": "artery"
+        },
+        {
+            "title": "BLUETALE",
+            "description": "Below The Sky",
+            "thumb": "thumnail_bluetale.jpg"
+	    "slug": "bluetale"
+        },
+        {
+            "title": "BOTANIQUE",
+            "description": "Simplicity of abstract organic shape",
+            "thumb": "thumnail_botanique.jpg"
+	    "slug": "botanique"
+        },
+        {
+            "title": "JENIM SPORTS",
+            "description": "Morocco Collection",
+            "thumb": "thumnail_jenim_sports.jpg"
+	    "slug": "jenim-sports"
+        },
+        {
+            "title": "MARAYAT",
+            "description": "Lovely Navy",
+            "thumb": "thumnail_marayat.jpg"
+	    "slug": "marayat"
+        },
+        {
+            "title": "METICULOUS",
+            "description": "English Tailoring",
+            "thumb": "thumnail_meticulous.jpg"
+	    "slug": "meticulous"
+        },
+        {
+            "title": "MUNZAA",
+            "description": "Freedom of Art and Craft on Local Wisdom",
+            "thumb": "thumnail_munzaa.jpg"
+	    "slug": "munzaa"
+        },
+        {
+            "title": "RHYTHMOTIF",
+            "description": "Dear Munch",
+            "thumb": "thumnail_phythmotif.jpg"
+	    "slug": "rhythmotif"
+        },
+        {
+            "title": "SAAMU",
+            "description": "DAYTO90.",
+            "thumb": "thumnail_saamu.jpg"
+	    "slug": "saamu"
+        },
+        { 
+            "title": "SIX P.M.",
+            "description": "S20, Hippy Culture",
+            "thumb": "thumnail_six_p_m_.jpg"
+	    "slug": "six-pm"
+        },
+        {
+            "title": "SPORT HIRO",
+            "description": "Night Sport",
+            "thumb": "thumnail_sport_hiro.jpg"
+	    "slug": "sport-hiro"
+        }
+    ],
+    "leather_goods": [
+        {
+            "title": "ARTTY BRAND",
+            "description": "Icon was born (Retro 70's)",
+            "thumb": "thumnail_artty_brand.jpg"
+	    "slug": "artty-brand"
+        },
+        {
+            "title": "BIG FOOT",
+            "description": "Dessert Joy",
+            "thumb": "thumnail_big_foot.jpg"
+	    "slug": "big-foot"
+        },},
+        {
+            "title": "HALFF",
+            "description": "Sand",
+            "thumb": "thumnail_halff.jpg"
+	    "slug": "halff"
+        },
+        {
+            "title": "TORBOON",
+            "description": "Ja-rit",
+            "thumb": "thumnail_torboon.jpg"
+	    "slug": "torboon"
+        },
+        {
+            "title": "T R I P L E - P PAPHONPHAT",
+            "description": "Ready To War",
+            "thumb": "thumnail_t_r_i_p_l_e_p_paphonphat.jpg"
+	    "slug": "t-r-i-p-l-e-p-paphonphat"
+        }
+    ],
+    "accessories": [
+        {
+            "title": "CAPTHAI",
+            "description": "Harmony of Spring",
+            "thumb": "thumnail_capthai.jpg"
+	    "slug": "capthai"
+        }
+    ]
+}

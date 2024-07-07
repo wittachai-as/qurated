@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quratedfashion</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="/2019/module/aos/aos.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Prompt:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
+        rel="stylesheet">
+    <link href="/2019/css/scrollbar.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    <link href="/2019/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="quratedfashionshow2020">
+    <div id="loadPage"></div>
+    <div id="tp_header2"></div>
+    <div id="section_1">
+        <div id="carouselIntro" class="carousel slide" data-ride="carousel" data-touch="true">
+            <div class="carousel-item item_1 active">
+                <!--a href="q_portfolio_natural_standard.html"></a-->
+            </div>
+            <!--
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselIntro" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselIntro" data-slide-to="1"></li>
+                    <li data-target="#carouselIntro" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner bg-info" role="listbox">
+                    <div class="carousel-item item_1 active"><a href="q_portfolio_natural_standard.html"><div class="container"><h1>Natural Standard<br/><span>Soul Glow, Natural Enrichment,<br/>Prosperous Wealth</span></h1></div></a></div>
+                    <div class="carousel-item item_2"><a href="q_portfolio_maverick_youths.html"><div class="container"><h1 class="black">Maverick Youths<br/><span>Global Mindset, Extending Borders,<br/>Worldly Personal View</span></h1></div></a></div>
+                    <div class="carousel-item item_3"><a href="q_portfolio_subjective_matters.html"><div class="container"><h1>Subjective Matters<br/><span>Aesthetic Chameleons, Artistic Expressions,<br/>Experimental Chic</span></h1></div></a></div>
+                </div>
+-->
+        </div>
+    </div>
+    <div id="section_2">
+        <div class="container">
+            <div class="row look_list_block">
+            </div>
+        </div>
+    </div>
+    <div id="tp_footer2"></div>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/2019/module/aos/aos.js"></script>
+    <script type="text/javascript" src="/2019/module/js/scrollbar.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/2019/module/js/main.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var detail = '';
+            $.ajax({
+                url: "/2019/json/quratedfashionshow2020/look.json",
+                dataType: "text",
+                success: function (data) {
+                    var json = $.parseJSON(data);
+                    //var arr_detail = json[b];
+                    for (i in json) {
+                        detail += '<div class="col-6 col-sm-3 look_list" data-aos="fade"><a href="look/?l=';
+                        detail += i;
+                        detail += '"><img src="/2019/images/quratedfashionshow2020/thumb/';
+                        detail += json[i][0].thumb;
+                        detail += '" /><br/><div class="row"><p class="col-6">Look</p><p class="col-6 right">';
+                        detail += i;
+                        detail += '</p></div></a></div>';
+                    }
+                    $('.look_list_block').html(detail);
+                }
+            });
+
+            $('.carousel-item', '.show-neighbors').each(function () {
+                var next = $(this).next();
+                if (!next.length) {
+                    next = $(this).siblings(':first');
+                }
+                next.children(':first-child').clone().appendTo($(this));
+            }).each(function () {
+                var prev = $(this).prev();
+                if (!prev.length) {
+                    prev = $(this).siblings(':last');
+                }
+                prev.children(':nth-last-child(2)').clone().prependTo($(this));
+            });
+            $("#section_3 a").hover(function () {
+                var data = $(this).data('image');
+                $("#section_3").css("background-image", 'url/2019/images/home/home_qportfolio_group_' + data + '.jpg)');
+                $("#section_3 a").removeClass("active");
+                $(this).addClass("active");
+            });
+            $("#section_4 a").hover(function () {
+                var data = $(this).data('image');
+                $("#section_4").css("background-image", 'url(/2019/images/home/home_qtrend_' + data + '.jpg)');
+                $("#section_4 a").removeClass("active");
+                $(this).addClass("active");
+            });
+            $('[data-fancybox="images"]').fancybox({
+                animationEffect: "fade",
+                animationDuration: 1000,
+                infobar: false,
+                buttons: [
+                    //"zoom",
+                    //"share",
+                    //"slideShow",
+                    //"fullScreen",
+                    //"download",
+                    //"thumbs",
+                    //"close"
+                ],
+                afterLoad: function (instance, current) {
+                    var pixelRatio = window.devicePixelRatio || 1;
+
+                    if (pixelRatio > 1.5) {
+                        current.width = current.width / pixelRatio;
+                        current.height = current.height / pixelRatio;
+                    }
+
+                    $('.fancybox-stage').append($(".fancybox-caption").wrap());
+                },
+                clickContent: false,
+                caption: function (instance, item) {
+                    var caption = $(this).data('caption') || '';
+
+                    caption = caption + '<button data-fancybox-close="" class="fancybox-button fancybox-button--close" title="Close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 10.6L6.6 5.2 5.2 6.6l5.4 5.4-5.4 5.4 1.4 1.4 5.4-5.4 5.4 5.4 1.4-1.4-5.4-5.4 5.4-5.4-1.4-1.4-5.4 5.4z"></path></svg></button>';
+
+                    return caption;
+                },
+                mobile: {
+                    preventCaptionOverlap: false,
+                },
+            });
+
+            $('[data-fancybox="images_m"]').fancybox({
+                animationEffect: "fade",
+                animationDuration: 1000,
+                infobar: false,
+                buttons: [
+                    //"zoom",
+                    //"share",
+                    //"slideShow",
+                    //"fullScreen",
+                    //"download",
+                    //"thumbs",
+                    //"close"
+                ],
+                afterLoad: function (instance, current) {
+                    var pixelRatio = window.devicePixelRatio || 1;
+
+                    if (pixelRatio > 1.5) {
+                        current.width = current.width / pixelRatio;
+                        current.height = current.height / pixelRatio;
+                    }
+
+                    $('.fancybox-stage').append($(".fancybox-caption").wrap());
+                },
+                clickContent: false,
+                caption: function (instance, item) {
+                    var caption = $(this).data('caption') || '';
+
+                    caption = caption + '<i class="arrow" onClick="click_caption(\'open\');"></i><button data-fancybox-close="" class="fancybox-button fancybox-button--close" title="Close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 10.6L6.6 5.2 5.2 6.6l5.4 5.4-5.4 5.4 1.4 1.4 5.4-5.4 5.4 5.4 1.4-1.4-5.4-5.4 5.4-5.4-1.4-1.4-5.4 5.4z"></path></svg></button>';
+
+                    return caption;
+                },
+                mobile: {
+                    preventCaptionOverlap: false,
+                }
+            });
+
+            $('[data-fancybox="video"]').fancybox({
+                animationEffect: "fade",
+                animationDuration: 1000,
+                infobar: false,
+                buttons: [
+                    //"zoom",
+                    //"share",
+                    //"slideShow",
+                    //"fullScreen",
+                    //"download",
+                    //"thumbs",
+                    "close"
+                ],
+                afterLoad: function (instance, current) {
+                    var pixelRatio = window.devicePixelRatio || 1;
+
+                    if (pixelRatio > 1.5) {
+                        current.width = current.width / pixelRatio;
+                        current.height = current.height / pixelRatio;
+                    }
+
+                    $('.fancybox-caption').hide();
+                    $('.fancybox-navigation').hide();
+                },
+                clickContent: false,
+                mobile: {
+                    preventCaptionOverlap: false,
+                }
+                /*
+                                    caption : function( instance, item ) {
+                                        var caption = $(this).data('caption') || '';
+                
+                                        caption = caption + '<i class="arrow" onClick="click_caption(\'open\');"></i><button data-fancybox-close="" class="fancybox-button fancybox-button--close" title="Close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 10.6L6.6 5.2 5.2 6.6l5.4 5.4-5.4 5.4 1.4 1.4 5.4-5.4 5.4 5.4 1.4-1.4-5.4-5.4 5.4-5.4-1.4-1.4-5.4 5.4z"></path></svg></button>';
+                
+                                        return caption;
+                                    }
+                */
+            });
+        });
+    </script>
+</body>
+
+</html>

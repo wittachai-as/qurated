@@ -1,0 +1,60 @@
+{
+    "clothing": [
+        {
+            "title": "PHASING",
+            "description": "Color & Rainbow @Phasing",
+            "thumb": "thumnail_phasing.jpg",
+            "slug": "phasing"
+        },
+        {
+            "title": "MATHTARA",
+            "description": "The Serengeti",
+            "thumb": "thumnail_mathtara.jpg",
+            "slug": "mathtara"
+        },
+        {
+            "title": "MUDMEE MODERN",
+            "description": "The Season of Indigo",
+            "thumb": "thumnail_mudmee_modern.jpg",
+            "slug": "mudmee-modern"
+        },
+        {
+            "title": "MALIGOOD",
+            "description": "Sunny City",
+            "thumb": "thumnail_maligood.jpg",
+            "slug": "maligood"
+        },
+        {
+            "title": "PASSARA",
+            "description": "You are the Stately Madame",
+            "thumb": "thumnail_passara.jpg",
+            "slug": "passara"
+        },
+        {
+            "title": "HATTRA",
+            "description": "Glory Destiny",
+            "thumb": "thumnail_hattra.jpg",
+            "slug": "hattra"
+        },
+        {
+            "title": "BLUETALE",
+            "description": "Below The Sky",
+            "thumb": "thumnail_bluetale.jpg",
+            "slug": "bluetale"
+        },
+        {
+            "title": "BHUKRAM",
+            "description": "Bhukram in the world",
+            "thumb": "thumnail_bhukram.jpg",
+            "slug": "bhukram"
+        }
+    ],
+    "leather_goods": [
+        {
+            "title": "HALFF",
+            "description": "Sand",
+            "thumb": "thumnail_halff.jpg",
+            "slug": "halff"
+        }
+    ]
+}

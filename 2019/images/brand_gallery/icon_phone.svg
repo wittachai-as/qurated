@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.31" height="112.31" viewBox="0 0 112.31 112.31">
+  <g id="icon_phone" opacity="0.523">
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="56.155" cy="56.155" rx="56.155" ry="56.155" transform="translate(0)"/>
+    <g id="smartphone-call" transform="translate(37.025 23.203)">
+      <path id="Path_270" data-name="Path 270" d="M41.236,0H11.794a4.473,4.473,0,0,0-4.46,4.46V61.575a4.474,4.474,0,0,0,4.46,4.462H41.236a4.472,4.472,0,0,0,4.46-4.46V4.46A4.473,4.473,0,0,0,41.236,0ZM21.806,3.215h9.419a.541.541,0,0,1,0,1.081H21.806a.541.541,0,0,1,0-1.081Zm4.709,60.592a2.231,2.231,0,1,1,2.23-2.232A2.23,2.23,0,0,1,26.515,63.807Zm16.077-6.024H10.438V7.074H42.592Z" transform="translate(-7.334)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

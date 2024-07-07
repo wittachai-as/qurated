@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Quratedfashion</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link href="module/aos/aos.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Prompt:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+        <link href="css/scrollbar.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+        <link href="css/style.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="loadPage"></div>
+        <div id="tp_header"></div>
+        <div id="q_project" class="_intro">
+            <div class="img"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 header_q_project">
+                        <div class="scrollbar-inner">
+                            <h2>QURATED<br/><span>FASHION<br/>INCUBATION</span></h2>
+                            <a href="https://youtu.be/J36l8Ip4kEA" data-fancybox="video" class="fancy_video">Watch Film</a>
+                        </div>
+                    </div>
+                    <div class="col-md-8"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="q_project_detail" data-title="AEC Textile Co., Ltd." class="item_list">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1></h1>
+                        <article>
+                            Qurated Fashion Incubation Project (Q) by DITP or Dept. of International Trade Promotion, presents the latest fashion collections from the incubation program. The 58 new collections from Thai fashion designers/entrepreneurs including: textiles, womenswear, menswear, childrenswear, leather goods and accessories, aim at supplying more than 700 new merchandises for Spring/Summer 2020 to the domestic and international buyers at STYLE BANGKOK 2019 (OCT). The incubation series are curated by a panel of Leading Thai fashion designers, marketing and patterners including: 
+                        </article>
+                        <article>
+                            <ul>
+                                <li>Sirichai Daharanont - Theatre</li>
+                                <li>Siriorn Teankaprasith - Painkiller</li>
+                                <li>Nat Mangkang - Kloset</li>
+                                <li>Araya Indra - Theatre</li>
+                                <li>Ornvimol Seniwongse Na Ayudhya - Greyhound</li>
+                                <li>Bandit Rassameeroj - Greyhound</li>
+                                <li>Asst.Prof.Dr.Anothai Cholachatpinyo - Qurator</li>
+                                <li>Chaiyose Pechdasada - Tango</li>
+                                <li>Manassawin Jehvoh - Pattern Expert</li>
+                                <li>Phongphan Whangpanya - Pattern Expert</li>
+                                <!--li>Siwada Samart - Pattern Expert</li-->
+                                <li>Suphattanan Karunyawi - Pattern Expert</li>
+                                <li>Tanawan Cholchatpinyo - Pattern Expert</li>
+                            </ul>
+                        </article>
+                        <article>
+                            The Qurated Fashion Incubation Project provides an established framework and intense workshop series such as; fashion brand building, market positioning, collection development and commercial presentation. The design direction based on the Qurated trend forecast for Spring/Summer 2020 sub-visions into 3 major trends: Natural Standard, Maverick Youth, Subjective Matters. Each trend derived from lifestyles and consumer movements to forecast future market segments.
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="tp_footer"></div>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="module/aos/aos.js"></script>
+        <script type="text/javascript" src="module/js/scrollbar.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+        <script type="text/javascript" src="module/js/main.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('[data-fancybox="video"]').fancybox({
+                    animationEffect: "fade",
+                    animationDuration: 1000,
+                    infobar : false,
+                    buttons: [
+                        "close"
+                    ],
+                    afterLoad : function(instance, current) {
+                        var pixelRatio = window.devicePixelRatio || 1;
+
+                        if ( pixelRatio > 1.5 ) {
+                            current.width  = current.width  / pixelRatio;
+                            current.height = current.height / pixelRatio;
+                        }
+
+                        $('.fancybox-caption').hide();
+                        $('.fancybox-navigation').hide();
+                    },
+                    clickContent : false,
+                    mobile: {
+                        preventCaptionOverlap: false,
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

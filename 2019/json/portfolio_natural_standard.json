@@ -1,0 +1,127 @@
+{
+    "clothing": [
+        {
+            "title": "ANANAS",
+            "description": "Natural Dyed Hand Woven Fabric",
+            "thumb": "thumnail_ananas.jpg",
+            "slug": "ananas"
+        },
+        {
+            "title": "BAANBULUN",
+            "description": "Sea & Sand",
+            "thumb": "thumnail_baanbulun.jpg",
+            "slug": "baanbulun"
+        },
+        {
+            "title": "BHUKRAM",
+            "description": "Bhukram in the world",
+            "thumb": "thumnail_bhukram.jpg",
+            "slug": "bhukram"
+        },
+        {
+            "title": "BOONTHAM",
+            "description": "Nature Lover",
+            "thumb": "thumnail_boontham.jpg",
+            "slug": "boontham"
+        },
+        {
+            "title": "CHOSITA",
+            "description": "Chosita 2019AW / Oasis in The Desert",
+            "thumb": "thumnail_chosita.jpg",
+            "slug": "chosita"
+        },
+        {
+            "title": "FOLKCHARM",
+            "description": "Autumn's Reinterpretation of Minimalism and Indigenous Craft",
+            "thumb": "thumnail_folkcharm.jpg",
+            "slug": "folkcharm"
+        },
+        {
+            "title": "LAZY SPACE",
+            "description": "Lady Bug Wings",
+            "thumb": "thumnail_lazy_space.jpg",
+            "slug": "lazy-space"
+        },
+        {
+            "title": "MADA DESIGN",
+            "description": "Earth Tone",
+            "thumb": "thumnail_mada_design.jpg",
+            "slug": "mada-desing"
+        },
+        {
+            "title": "MALIGOOD",
+            "description": "Sunny City",
+            "thumb": "thumnail_maligood.jpg",
+            "slug": "maligood"
+        },
+        {
+            "title": "MATA",
+            "description": "Cotton Candy.",
+            "thumb": "thumnail_mata.jpg",
+            "slug": "mata"
+        },
+        {
+            "title": "MUDMEE MODERN",
+            "description": "The Season of Indigo",
+            "thumb": "thumnail_mudmee_modern.jpg",
+            "slug": "mudmee-modern"
+        },
+        {
+            "title": "PAGA",
+            "description": "My Tracery",
+            "thumb": "thumnail_paga.jpg",
+            "slug": "paga"
+        },
+        {
+            "title": "PHASING",
+            "description": "Color & Rainbow @Phasing",
+            "thumb": "thumnail_phasing.jpg",
+            "slug": "phasing"
+        },
+        {
+            "title": "SANGRAWEE PHATHAI",
+            "description": "Ethnic Culture",
+            "thumb": "thumnail_sangrawee_phathai.jpg",
+            "slug": "sangrawee-phathai"
+        },
+        {
+            "title": "SUNTREE",
+            "description": "Sunset",
+            "thumb": "thumnail_suntree.jpg",
+            "slug": "suntree"
+        },
+        {
+            "title": "TON & TUM DESIGN",
+            "description": "Renaissance of Cloth",
+            "thumb": "thumnail_ton_n_tum_design.jpg",
+            "slug": "ton-tum-design"
+        },
+        {
+            "title": "ZABEDE",
+            "description": "Beach Wedding Party",
+            "thumb": "thumnail_zabede.jpg",
+            "slug": "zabede"
+        }
+    ],
+    "leather_goods": [
+        {
+            "title": "ELEGANZA",
+            "description": "Eco Topia",
+            "thumb": "thumnail_eleganza.jpg",
+            "slug": "eleganza"
+        },
+        {
+            "title": "NODETHING",
+            "description": "Fields",
+            "thumb": "thumnail_nodething.jpg",
+            "slug": "nodething"
+        },
+        {
+            "title": "THAIS ECOLEATHERS",
+            "description": "Phoenix",
+            "thumb": "thumnail_thais_ecoleathers.jpg",
+            "slug": "thais-ecoleathers"
+        }
+      
+    ]
+}

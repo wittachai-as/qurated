@@ -1,0 +1,494 @@
+{
+    "all": [
+         
+         {
+             "collection_name": "A2012 Co., Ltd.",
+             "brand_name": "MUNZAA",
+             "thumb": "a2012_thumb.jpg",
+             "slug": "a2012",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Akara Gallery Ltd., Part.",
+             "brand_name": "PEONY",
+             "thumb": "akara_thumb.jpg",
+             "slug": "akara",
+             "type" : "new_local",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Amanah Intertrade and Travel Co., Ltd.",
+             "brand_name": "ZABEDE",
+             "thumb": "amanah-intertrade_thumb.jpg",
+             "slug": "amanah-intertrade",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Anuroj Handpaint Ltd., Part.",
+             "brand_name": "ANUROJ",
+             "thumb": "ahuroj_thumb.jpg",
+             "slug": "ahuroj",
+             "type" : "new_local",
+             "zone" : "southern"
+         },
+         {
+             "collection_name": "Artty Groups Co., Ltd.",
+             "brand_name": "ARTTY Brand",
+             "thumb": "artty-groups_thumb.jpg",
+             "slug": "artty-groups",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Baisri Creation Co., Ltd.",
+             "brand_name": "BAISRI",
+             "thumb": "baisri-creation_thumb.jpg",
+             "slug": "baisri-creation",
+             "type" : "disruptive_identity",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Bangkokcos Co.,Ltd.",
+             "brand_name": "BOTANIQUE",
+             "thumb": "bangkokcos_thumb.jpg",
+             "slug": "bangkokcos",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Bd Handicraft Group Ltd., Part.",
+             "brand_name": "PHASING",
+             "thumb": "bd-handicraft_thumb.jpg",
+             "slug": "bd-handicraft",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Boontham Banana Rubber Ltd., Part.",
+             "brand_name": "BOONTHAM",
+             "thumb": "boontham_thumb.jpg",
+             "slug": "boontham",
+             "type" : "new_local",
+             "zone" : "southern"
+         },
+         {
+             "collection_name": "Bwild BH Co.,Ltd.",
+             "brand_name": "BWILD byHeart",
+             "thumb": "bwild_thumb.jpg",
+             "slug": "bwild",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "By Boon Companion Co., Ltd.",
+             "brand_name": "TORBOON",
+             "thumb": "by-boon_thumb.jpg",
+             "slug": "by-boon",
+             "type" : "soul_made",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "C.M.Cotton & Bamboo Product Ltd., Part.",
+             "brand_name": "MADA DESIGN",
+             "thumb": "c-m-cotton_thumb.jpg",
+             "slug": "c-m-cotton",
+             "type" : "new_local",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Capheny Co., Ltd.",
+             "brand_name": "CAPHENY",
+             "thumb": "capheny_thumb.jpg",
+             "slug": "capheny",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Chaiyaphum OTOP Intertrader Co., Ltd.",
+             "brand_name": "NITDA",
+             "thumb": "chaiyaphum-otop_thumb.jpg",
+             "slug": "chaiyaphum-otop",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Chokpiboon 2005 Ltd., Part.",
+             "brand_name": "MUDMEE MODERN",
+             "thumb": "chokpaiboom_thumb.jpg",
+             "slug": "chokpaiboom",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Compass Co., Ltd.",
+             "brand_name": "BATIK DE NARA",
+             "thumb": "compas_thumb.jpg",
+             "slug": "compas",
+             "type" : "urban_symphony",
+             "zone" : "southern"
+         },
+         {
+             "collection_name": "Creeper8 Co., Ltd.",
+             "brand_name": "WILDBLUEYONDER.BKK",
+             "thumb": "creeper8_thumb.jpg",
+             "slug": "creeper8",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Faiplueakmai Ltd., Part.",
+             "brand_name": "NAJAI STUDIO",
+             "thumb": "fai-pluek-mai_thumb.jpg",
+             "slug": "fai-pluek-mai",
+             "type" : "disruptive_identity",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Folkcharm Co., Ltd.",
+             "brand_name": "FOLKCHARM",
+             "thumb": "folkcharm_thumb.jpg",
+             "slug": "folkcharm",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Happy Birthday Co., Ltd.",
+             "brand_name": "ANNETTE BANGKOK",
+             "thumb": "happybirthday_thumb.jpg",
+             "slug": "happybirthday",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Head De Co., Ltd.",
+             "brand_name": "HATTRA",
+             "thumb": "head-de_thumb.jpg",
+             "slug": "head-de",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Impani Part., Ltd.",
+             "brand_name": "IMPANI",
+             "thumb": "impami_thumb.jpg",
+             "slug": "impami",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Jiratcha Co.,Ltd.",
+             "brand_name": "CHAYANIST",
+             "thumb": "jiratcha_thumb.jpg",
+             "slug": "jiratcha",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Joe House Co., Ltd.",
+             "brand_name": "BIG FOOT",
+             "thumb": "joe-house_thumb.jpg",
+             "slug": "joe-house",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Junior Garment International Co., Ltd. ",
+             "brand_name": "BOUTON",
+             "thumb": "junior_thumb.jpg",
+             "slug": "junior",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Kanjigoods Co., Ltd.",
+             "brand_name": "TAKTAI",
+             "thumb": "kanjigoods_thumb.jpg",
+             "slug": "kanjigoods",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "KH Editions Group Ltd., Part.",
+             "brand_name": "KH EDITIONS",
+             "thumb": "kh-editions_thumb.jpg",
+             "slug": "kh-editions",
+             "type" : "disruptive_identity",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Khun Jack Ltd., Part.",
+             "brand_name": "LAZY SPACE",
+             "thumb": "khun-jack_thumb.jpg",
+             "slug": "khun-jack",
+             "type" : "soul_made",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Khwanta Ltd., Part.",
+             "brand_name": "LA LYNN",
+             "thumb": "khwanta_thumb.jpg",
+             "slug": "khwanta",
+             "type" : "urban_symphony",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Maligood Co., Ltd.",
+             "brand_name": "MALIGOOD",
+             "thumb": "maligood_thumb.jpg",
+             "slug": "maligood",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Marayat Rose Ltd., Part.",
+             "brand_name": "MARAYAT",
+             "thumb": "marayat_thumb.jpg",
+             "slug": "marayat",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Mata Cotton Ltd., Part.",
+             "brand_name": "MATA COTTON",
+             "thumb": "mata_thumb.jpg",
+             "slug": "mata",
+             "type" : "soul_made",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Mue Bhukram Jai Phuphan Co., Ltd.",
+             "brand_name": "BHUKRAM",
+             "thumb": "mue-bhukram_thumb.jpg",
+             "slug": "mue-bhukram",
+             "type" : "soul_made",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Nakamol For Something Stone Co., Ltd.",
+             "brand_name": "NAKAMOL",
+             "thumb": "nakamol_thumb.jpg",
+             "slug": "nakamol",
+             "type" : "new_local",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Natural Project Studio Ltd., Part.",
+             "brand_name": "HOM STUDIO",
+             "thumb": "naturel-project_thumbnail.jpg",
+             "slug": "naturel-project",
+             "type" : "new_local",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "NDK EDU Co., Ltd.",
+             "brand_name": "TALOM",
+             "thumb": "ndk-edu_thumb.jpg",
+             "slug": "ndk-edu",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Oriental Motifs Co., Ltd.",
+             "brand_name": "ORIENTAL MOTIFS",
+             "thumb": "oriental-motifs_thumb.jpg",
+             "slug": "oriental-motifs",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Oriental Time 88 Co., Ltd.",
+             "brand_name": "SUSAN LIAO",
+             "thumb": "oriental88_thumb.jpg",
+             "slug": "oriental88",
+             "type" : "new_local",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "P.P.P. Creations Co., Ltd.",
+             "brand_name": "T R I P L E - P  PAPHONPHAT",
+             "thumb": "p-p-p-creations_thumb.jpg",
+             "slug": "p-p-p-creations",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Passara Intertrade Co., Ltd.",
+             "brand_name": "TIE THAI",
+             "thumb": "passara_thumb.jpg",
+             "slug": "passara",
+             "type" : "new_local",
+             "zone" : "central"
+         },
+ 
+         {
+             "collection_name": "Patpapon Co., Ltd.",
+             "brand_name": "FOXPIXEL",
+             "thumb": "patphapon_thumb.jpg",
+             "slug": "patphapon",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Paulb Clothing Co., Ltd.",
+             "brand_name": "PATTRIC BOYLE",
+             "thumb": "paul-b-clothing_thumb.jpg",
+             "slug": "paul-b-clothing",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Phornthip Sports Wear Co., Ltd.",
+             "brand_name": "CAPTHAI",
+             "thumb": "phornthip_thumb.jpg",
+             "slug": "phornthip",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Podulan International Co., Ltd.",
+             "brand_name": "HANKY HOUSE",
+             "thumb": "podulan_thumb.jpg",
+             "slug": "podulan",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Prasobkarn Design Co., Ltd.",
+             "brand_name": "AIBELLE",
+             "thumb": "prasobkarn_thumb.jpg",
+             "slug": "prasobkarn",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Ring Co., Ltd.",
+             "brand_name": "ELEGANZA",
+             "thumb": "ring_thumb.jpg",
+             "slug": "ring",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Sabai-D Design Studio Co., Ltd.",
+             "brand_name": "ADOR.N ADORN",
+             "thumb": "sabai-d_thumb.jpg",
+             "slug": "sabai-d",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Simonssister Co., Ltd.",
+             "brand_name": "SIMONSSISTER",
+             "thumb": "simonssister_thumb.jpg",
+             "slug": "simonssister",
+             "type" : "disruptive_identity",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "SKJ Design Ltd., Part.",
+             "brand_name": "JUTATIP",
+             "thumb": "skj_thumb.jpg",
+             "slug": "skj",
+             "type" : "new_local",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Suntree Handmade Fabric Ltd., Part.",
+             "brand_name": "SUNTRE3",
+             "thumb": "suntree_thumb.jpg",
+             "slug": "suntree",
+             "type" : "soul_made",
+             "zone" : "xxxxxxx"
+         },
+         {
+             "collection_name": "Taifahsikhram Co., Ltd.",
+             "brand_name": "TAIFAHSIKRAM",
+             "thumb": "tai-fah-si-khram_thumb.jpg",
+             "slug": "tai-fah-si-khram",
+             "type" : "soul_made",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "Thai Batik Co., Ltd.",
+             "brand_name": "THAI BATIK",
+             "thumb": "thai-batik_thumb.jpg",
+             "slug": "thai-batik",
+             "type" : "new_local",
+             "zone" : "southern"
+         },
+         {
+             "collection_name": "Thai Craftman Co., Ltd.",
+             "brand_name": "BLUETALE",
+             "thumb": "thai-craftman_thumbnail.jpg",
+             "slug": "thai-craftman",
+             "type" : "soul_made",
+             "zone" : "northeastern"
+         },
+         {
+             "collection_name": "Thais Ecoleathers Co., Ltd.",
+             "brand_name": "THAIS (Ta-is)",
+             "thumb": "thais-ecoleathers_thumb.jpg",
+             "slug": "thais-ecoleathers",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Thanasin Business and Marketing Co., Ltd.",
+             "brand_name": "FA FON THAI SILK",
+             "thumb": "thanasin_thumb.jpg",
+             "slug": "thanasin",
+             "type" : "new_local",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Thanisorn A. Form Co., Ltd.",
+             "brand_name": "BLACKSUGAR",
+             "thumb": "thanisorn-a_thumb.jpg",
+             "slug": "thanisorn-a",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "The Best Creation Co., Ltd.",
+             "brand_name": "RIVA by Frank Weeneggsinn",
+             "thumb": "the-best_thumb.jpg",
+             "slug": "the-best",
+             "type" : "soul_made",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Thongrew Co., Ltd.",
+             "brand_name": "PATTRASARNN",
+             "thumb": "thongrew_thumb.jpg",
+             "slug": "thongrew",
+             "type" : "new_local",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Threesilp 54 Co., Ltd.",
+             "brand_name": "MIGRATOR",
+             "thumb": "threesilp_thumb.jpg",
+             "slug": "threesilp",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         },
+         {
+             "collection_name": "Yano Handicraft Ltd., Part.",
+             "brand_name": "YANO",
+             "thumb": "yano_thumb.jpg",
+             "slug": "yano",
+             "type" : "disruptive_identity",
+             "zone" : "northern"
+         },
+         {
+             "collection_name": "9Mahaboon Co., Ltd.",
+             "brand_name": "CATADOG FAMILY",
+             "thumb": "9mahaboom_thumb.jpg",
+             "slug": "9mahaboom",
+             "type" : "urban_symphony",
+             "zone" : "central"
+         }
+     ]
+ }

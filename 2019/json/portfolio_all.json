@@ -1,0 +1,356 @@
+{
+    "clothing": [
+        {
+            "title": "ANANAS",
+            "description": "Natural Dyed Hand Woven Fabric",
+            "thumb": "thumnail_ananas.jpg",
+            "slug": "ananas"
+        },
+        {
+            "title": "BAANBULUN",
+            "description": "Sea & Sand",
+            "thumb": "thumnail_baanbulun.jpg",
+            "slug": "baanbulun"
+        },
+        {
+            "title": "BHUKRAM",
+            "description": "Bhukram in the world",
+            "thumb": "thumnail_bhukram.jpg",
+            "slug": "bhukram"
+        },
+        {
+            "title": "BOONTHAM",
+            "description": "Nature Lover",
+            "thumb": "thumnail_boontham.jpg",
+            "slug": "boontham"
+        },
+        {
+            "title": "CHOSITA",
+            "description": "Chosita 2019AW / Oasis in The Desert",
+            "thumb": "thumnail_chosita.jpg",
+            "slug": "chosita"
+        },
+        {
+            "title": "FOLKCHARM",
+            "description": "Autumn's Reinterpretation of Minimalism and Indigenous Craft",
+            "thumb": "thumnail_folkcharm.jpg",
+            "slug": "folkcharm"
+        },
+        {
+            "title": "LAZY SPACE",
+            "description": "Lady Bug Wings",
+            "thumb": "thumnail_lazy_space.jpg",
+            "slug": "lazy-space"
+        },
+        {
+            "title": "MADA DESIGN",
+            "description": "Earth Tone",
+            "thumb": "thumnail_mada_design.jpg",
+            "slug": "mada-desing"
+        },
+        {
+            "title": "MALIGOOD",
+            "description": "Sunny City",
+            "thumb": "thumnail_maligood.jpg",
+            "slug": "maligood"
+        },
+        {
+            "title": "MATA",
+            "description": "Cotton Candy.",
+            "thumb": "thumnail_mata.jpg",
+            "slug": "mata"
+        },
+        {
+            "title": "MUDMEE MODERN",
+            "description": "The Season of Indigo",
+            "thumb": "thumnail_mudmee_modern.jpg",
+            "slug": "mudmee-modern"
+        },
+        {
+            "title": "PAGA",
+            "description": "My Tracery",
+            "thumb": "thumnail_paga.jpg",
+            "slug": "paga"
+        },
+        {
+            "title": "PHASING",
+            "description": "Color & Rainbow @Phasing",
+            "thumb": "thumnail_phasing.jpg",
+            "slug": "phasing"
+        },
+        {
+            "title": "SANGRAWEE PHATHAI",
+            "description": "Ethnic Culture",
+            "thumb": "thumnail_sangrawee_phathai.jpg",
+            "slug": "sangrawee-phathai"
+        },
+        {
+            "title": "SUNTREE",
+            "description": "Sunset",
+            "thumb": "thumnail_suntree.jpg",
+            "slug": "suntree"
+        },
+        {
+            "title": "TON & TUM DESIGN",
+            "description": "Renaissance of Cloth",
+            "thumb": "thumnail_ton_n_tum_design.jpg",
+            "slug": "ton-tum-design"
+        },
+        {
+            "title": "ZABEDE",
+            "description": "Beach Wedding Party",
+            "thumb": "thumnail_zabede.jpg",
+            "slug": "zabede"
+        },
+        {
+            "title": "ANNETTE BANGKOK",
+            "description": "Lahu Tribal in Korea",
+            "thumb": "thumnail_annette_bangkok.jpg",
+            "slug": "annette-bangkok"
+        },
+        {
+            "title": "ARCHITA",
+            "description": "The Amazing Shades of the Sky",
+            "thumb": "thumnail_archita.jpg",
+            "slug": "archita"
+        },
+        {
+            "title": "ARTERY",
+            "description": "Ray and Maria Stata Center, Frank Gehry",
+            "thumb": "thumnail_artery.jpg",
+            "slug": "artery"
+        },
+        {
+            "title": "BLUETALE",
+            "description": "Below The Sky",
+            "thumb": "thumnail_bluetale.jpg",
+            "slug": "bluetale"
+        },
+        {
+            "title": "BOTANIQUE",
+            "description": "Simplicity of abstract organic shape",
+            "thumb": "thumnail_botanique.jpg",
+            "slug": "botanique"
+        },
+        {
+            "title": "JENIM SPORTS",
+            "description": "Morocco Collection",
+            "thumb": "thumnail_jenim_sports.jpg",
+            "slug": "jenim-sports"
+        },
+        {
+            "title": "MARAYAT",
+            "description": "Lovely Navy",
+            "thumb": "thumnail_marayat.jpg",
+            "slug": "marayat"
+        },
+        {
+            "title": "METICULOUS",
+            "description": "English Tailoring",
+            "thumb": "thumnail_meticulous.jpg",
+            "slug": "meticulous"
+        },
+        {
+            "title": "MUNZAA",
+            "description": "Freedom of Art and Craft on Local Wisdom",
+            "thumb": "thumnail_munzaa.jpg",
+            "slug": "munzaa"
+        },
+        {
+            "title": "RHYTHMOTIF",
+            "description": "Dear Munch",
+            "thumb": "thumnail_phythmotif.jpg",
+            "slug": "rhythmotif"
+        },
+        {
+            "title": "SAAMU",
+            "description": "DAYTO90.",
+            "thumb": "thumnail_saamu.jpg",
+            "slug": "saamu"
+        },
+        { 
+            "title": "SIX P.M.",
+            "description": "S20, Hippy Culture",
+            "thumb": "thumnail_six_p_m_.jpg",
+            "slug": "six-pm"
+        },
+        {
+            "title": "SPORT HIRO",
+            "description": "Night Sport",
+            "thumb": "thumnail_sport_hiro.jpg",
+            "slug": "sport-hiro"
+        },
+        {
+            "title": "ANUROJ",
+            "description": "Lost in Masai Mara",
+            "thumb": "thumnail_anuroj.jpg",
+            "slug": "anuroj"
+        },
+        {
+            "title": "BAISRI",
+            "description": "Sing-Sa-La-Sat",
+            "thumb": "thumnail_baisri.jpg",
+            "slug": "baisri"
+        },
+        {
+            "title": "BATIK DENARA",
+            "description": "2PatchUP",
+            "thumb": "thumnail_batik_denara.jpg",
+            "slug": "batik-denara"
+        },
+        {
+            "title": "BLACK SUGAR",
+            "description": "Thai Origami",
+            "thumb": "thumnail_black_sugar.jpg",
+            "slug": "black-sugar"
+        },
+        {
+            "title": "CRUISE BY CHRISTIANA",
+            "description": "Weekday Wonderlust : Luxe Riads In Marrakech",
+            "thumb": "thumnail_cruise_by_christiana.jpg",
+            "slug": "cruise-by-christiana"
+        },
+        {
+            "title": "HATTRA",
+            "description": "Glory Destiny",
+            "thumb": "thumnail_hattra.jpg",
+            "slug": "hattra"
+        },
+        {
+            "title": "MATHTARA",
+            "description": "The Serengeti",
+            "thumb": "thumnail_mathtara.jpg",
+            "slug": "mathtara"
+        },
+        {
+            "title": "NAJAI STUDIO",
+            "description": "S(B)AD GIRLS CLUB",
+            "thumb": "thumnail_najai_studio.jpg",
+            "slug": "najai-studio"
+        },
+        {
+            "title": "NICHP",
+            "description": "Swaying Line from Desert",
+            "thumb": "thumnail_nichp.jpg",
+            "slug": "nichp"
+        },
+        {
+            "title": "PASSARA",
+            "description": "You are the Stately Madame",
+            "thumb": "thumnail_passara.jpg",
+            "slug": "passara"
+        },
+        {
+            "title": "PIANKUSOL",
+            "description": "Natural and Heathy Touch",
+            "thumb": "thumnail_piankusol.jpg",
+            "slug": "piankusol"
+        },
+        {
+            "title": "RIVA",
+            "description": "Simply is not Simply",
+            "thumb": "thumnail_riva.jpg",
+            "slug": "riva"
+        },
+        {
+            "title": "SIMONSSISTER",
+            "description": "Simone-Manga",
+            "thumb": "thumnail_simonssister.jpg",
+            "slug": "simonssister"
+        },
+        {
+            "title": "SIRINTRA",
+            "description": "Sassy Señorita.",
+            "thumb": "thumnail_sirintra.jpg",
+            "slug": "sirintra"
+        },
+        {
+            "title": "YANO",
+            "description": "Equality",
+            "thumb": "thumnail_yano.jpg",
+            "slug": "yano"
+        }
+    ],
+    "leather_goods": [
+        {
+            "title": "ELEGANZA",
+            "description": "Eco Topia",
+            "thumb": "thumnail_eleganza.jpg",
+            "slug": "eleganza"
+        },
+        {
+            "title": "NODETHING",
+            "description": "Fields",
+            "thumb": "thumnail_nodething.jpg",
+            "slug": "nodething"
+        },
+        {
+            "title": "THAIS ECOLEATHERS",
+            "description": "Phoenix",
+            "thumb": "thumnail_thais_ecoleathers.jpg",
+            "slug": "thais-ecoleathers"
+        },
+        {
+            "title": "ARTTY BRAND",
+            "description": "Icon was born (Retro 70's)",
+            "thumb": "thumnail_artty_brand.jpg",
+            "slug": "artty-brand"
+        },
+        {
+            "title": "BIG FOOT",
+            "description": "Dessert Joy",
+            "thumb": "thumnail_big_foot.jpg",
+            "slug": "big-foot"
+        },
+        {
+            "title": "HALFF",
+            "description": "Sand",
+            "thumb": "thumnail_halff.jpg",
+            "slug": "halff"
+        },
+        {
+            "title": "TORBOON",
+            "description": "Ja-rit",
+            "thumb": "thumnail_torboon.jpg",
+            "slug": "torboon"
+        },
+        {
+            "title": "T R I P L E - P PAPHONPHAT",
+            "description": "Ready To War",
+            "thumb": "thumnail_t_r_i_p_l_e_p_paphonphat.jpg",
+            "slug": "t-r-i-p-l-e-p-paphonphat"
+        },
+        {
+            "title": "ORIENTAL MOTIFS",
+            "description": "Thongtawa",
+            "thumb": "thumnail_oriental_motifs.jpg",
+            "slug": "oriental-motifs"
+        },
+        {
+            "title": "PATTRASARNN",
+            "description": "Khon Umpai",
+            "thumb": "thumnail_pattrasarnn.jpg",
+            "slug": "pattrasarnn"
+        }
+    ],
+    "accessories": [
+        {
+            "title": "CAPTHAI",
+            "description": "Harmony of Spring",
+            "thumb": "thumnail_capthai.jpg",
+            "slug": "capthai"
+        },
+        {
+            "title": "ADOR N ADORN (A.N.A)",
+            "description": "Phi Ta Khon Dancing with the Dead",
+            "thumb": "thumnail_ador_n_adorn_(a_n_a).jpg",
+            "slug": "ador-n-adorn-ana"
+        },
+        {
+            "title": "CHAT",
+            "description": "Illusion",
+            "thumb": "thumnail_chat.jpg",
+            "slug": "chat"
+        }
+    ]
+}

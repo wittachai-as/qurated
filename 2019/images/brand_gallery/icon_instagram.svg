@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.31" height="112.31" viewBox="0 0 112.31 112.31">
+  <g id="icon_instagram" opacity="0.523">
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="56.155" cy="56.155" rx="56.155" ry="56.155" transform="translate(0 0)"/>
+    <g id="instagram" transform="translate(23.202 23.449)">
+      <g id="Group_195" data-name="Group 195">
+        <g id="Group_194" data-name="Group 194">
+          <path id="Path_259" data-name="Path 259" d="M45.14,0H20.518A20.52,20.52,0,0,0,0,20.518V45.14A20.52,20.52,0,0,0,20.518,65.658H45.14A20.52,20.52,0,0,0,65.658,45.14V20.518A20.52,20.52,0,0,0,45.14,0ZM59.5,45.14A14.379,14.379,0,0,1,45.14,59.5H20.518A14.379,14.379,0,0,1,6.155,45.14V20.518A14.378,14.378,0,0,1,20.518,6.155H45.14A14.378,14.378,0,0,1,59.5,20.518Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_197" data-name="Group 197" transform="translate(16.415 16.415)">
+        <g id="Group_196" data-name="Group 196">
+          <path id="Path_260" data-name="Path 260" d="M144.415,128a16.415,16.415,0,1,0,16.415,16.415A16.415,16.415,0,0,0,144.415,128Zm0,26.674a10.259,10.259,0,1,1,10.259-10.259A10.273,10.273,0,0,1,144.415,154.674Z" transform="translate(-128 -128)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_199" data-name="Group 199" transform="translate(48.287 12.996)">
+        <g id="Group_198" data-name="Group 198">
+          <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="2.187" cy="2.187" rx="2.187" ry="2.187" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

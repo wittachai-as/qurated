@@ -1,0 +1,96 @@
+{
+    "clothing": [
+        {
+            "title": "BAANBULUN",
+            "description": "Sea & Sand",
+            "thumb": "thumnail_baanbulun.jpg",
+            "slug": "baanbulun"
+        },
+        {
+            "title": "BAISRI",
+            "description": "Sing-Sa-La-Sat",
+            "thumb": "thumnail_baisri.jpg",
+            "slug": "baisri"
+        },
+        {
+            "title": "MADA DESIGN",
+            "description": "Earth Tone",
+            "thumb": "thumnail_mada_design.jpg",
+            "slug": "mada-desing"
+        },
+        {
+            "title": "NAJAI STUDIO",
+            "description": "S(B)AD GIRLS CLUB",
+            "thumb": "thumnail_najai_studio.jpg",
+            "slug": "najai-studio"
+        },
+        {
+            "title": "LAZY SPACE",
+            "description": "Lady Bug Wings",
+            "thumb": "thumnail_lazy_space.jpg",
+            "slug": "lazy-space"
+        },
+        {
+            "title": "MATA",
+            "description": "Cotton Candy.",
+            "thumb": "thumnail_mata.jpg",
+            "slug": "mata"
+        },
+        {
+            "title": "PAGA",
+            "description": "My Tracery",
+            "thumb": "thumnail_paga.jpg",
+            "slug": "paga"
+        },
+        {
+            "title": "CHOSITA",
+            "description": "Chosita 2019AW / Oasis in The Desert",
+            "thumb": "thumnail_chosita.jpg",
+            "slug": "chosita"
+        },
+        {
+            "title": "PIANKUSOL",
+            "description": "Natural and Heathy Touch",
+            "thumb": "thumnail_piankusol.jpg",
+            "slug": "piankusol"
+        },
+        {
+            "title": "SANGRAWEE PHATHAI",
+            "description": "Ethnic Culture",
+            "thumb": "thumnail_sangrawee_phathai.jpg",
+            "slug": "sangrawee-phathai"
+        },
+        {
+            "title": "ARCHITA",
+            "description": "The Amazing Shades of the Sky",
+            "thumb": "thumnail_archita.jpg",
+            "slug": "archita"
+        },
+        {
+            "title": "SUNTREE",
+            "description": "Sunset",
+            "thumb": "thumnail_suntree.jpg",
+            "slug": "suntree"
+        },
+        {
+            "title": "TON & TUM DESIGN",
+            "description": "Renaissance of Cloth",
+            "thumb": "thumnail_ton_n_tum_design.jpg",
+            "slug": "ton-tum-design"
+        },
+        {
+            "title": "YANO",
+            "description": "Equality",
+            "thumb": "thumnail_yano.jpg",
+            "slug": "yano"
+        }
+    ],
+    "leather_goods": [
+        {
+            "title": "TORBOON",
+            "description": "Ja-rit",
+            "thumb": "thumnail_torboon.jpg",
+            "slug": "torboon"
+        }
+    ]
+}

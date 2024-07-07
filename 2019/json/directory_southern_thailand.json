@@ -1,0 +1,36 @@
+{
+    "clothing": [
+        {
+            "title": "ANUROJ",
+            "description": "Lost in Masai Mara",
+            "thumb": "thumnail_anuroj.jpg",
+            "slug": "anuroj"
+        },
+        {
+            "title": "BOONTHAM",
+            "description": "Nature Lover",
+            "thumb": "thumnail_boontham.jpg",
+            "slug": "boontham"
+        },
+        {
+            "title": "BATIK DENARA",
+            "description": "2PatchUP",
+            "thumb": "thumnail_batik_denara.jpg",
+            "slug": "batik-denara"
+        },
+        {
+            "title": "ANANAS",
+            "description": "Natural Dyed Hand Woven Fabric",
+            "thumb": "thumnail_ananas.jpg",
+            "slug": "ananas"
+        }
+    ],
+    "leather_goods": [
+        {
+            "title": "NODETHING",
+            "description": "Fields",
+            "thumb": "thumnail_nodething.jpg",
+            "slug": "nodething"
+        }
+    ]
+}

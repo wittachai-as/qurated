@@ -1,0 +1,32 @@
+{
+    "all": [
+        {
+            "collection_name": "Collection Name",
+            "brand_name": "BRAND NAME",
+            "thumb": "S__53141528.png",
+            "slug": "brand",
+            "type" : "central"
+        },
+        {
+            "collection_name": "Collection Name",
+            "brand_name": "BRAND NAME",
+            "thumb": "S__53141528.png",
+            "slug": "brand",
+            "type" : "northern"
+        },
+        {
+            "collection_name": "Collection Name",
+            "brand_name": "BRAND NAME",
+            "thumb": "S__53141528.png",
+            "slug": "brand",
+            "type" : "northeastern"
+        },
+        {
+            "collection_name": "Collection Name",
+            "brand_name": "BRAND NAME",
+            "thumb": "S__53141528.png",
+            "slug": "brand",
+            "type" : "southern"
+        }
+    ]
+}
